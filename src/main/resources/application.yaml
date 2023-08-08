@@ -1,0 +1,8 @@
+#minio:
+#  accessKey: minio
+#  secretKey: minio123
+#  bucket: leadnews
+#  endpoint: http://192.168.5.130:9000
+#  readPath: http://192.168.5.130:9000
+
+#在那个微服务中使用 就在那个微服务的nacos配置中心加入这段配置
